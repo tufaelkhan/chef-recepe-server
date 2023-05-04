@@ -1,0 +1,242 @@
+[
+    {
+       "id":"1",
+       "name": "polash",
+       "image": "https://st.depositphotos.com/1518767/4293/i/950/depositphotos_42930411-stock-photo-concentrated-male-chef-garnishing-food.jpg",
+       "experience": "3",
+       "recipes": "7",
+       "likes": "150",
+       "bio": "It seems like only a few years ago that we had a shelf of cookery books to refer to from time and again. While some were more for show and would sit unused for years, others would become much loved classics, passed down through families as well-worn heirlooms.These days, cookery books are more popular than ever, and many sit at the top of the bestseller lists for months. But as we live more of our lives online, cooking sites have also been thriving",
+       "recipeName":{
+        "first": "Shorshe Ilish",
+        "second": "Kacchi Biriyani ",
+        "third": "Beef Kala Bhuna",
+        "four": "Bhuna Khichuri with Dim Bhaji",
+        "five": "Sheek Kebab with Naan"
+       },
+       "ratingName":{
+        "first": "4",
+        "second": "4.2",
+        "third": "5",
+        "four": "3",
+        "five": "4.8"
+       },
+       "rating":"4.5",
+       "method": {
+        "first": "Cook spaghetti pasta according to package directions.",
+        "second": "In a separate pan, cook diced bacon until crispy. Remove bacon from pan and set aside. ",
+        "third": "In the same pan, sauté minced garlic in the bacon fat until fragrant.",
+        "four": "In a bowl, whisk together eggs, grated parmesan cheese, salt, and black pepper.",
+        "five": "Add cooked spaghetti to the garlic pan, pour in the egg mixture and stir until eggs are cooked and pasta is coated.",
+        "six": "Add the crispy bacon and serve with additional grated parmesan cheese.",
+        "seven": "In a wok or large frying pan, heat vegetable oil over high heat.",
+        "eight": "Cut chicken breast into small pieces and season with salt and black pepper.",
+        "nine": "Add minced garlic and ginger and stir fry for 30 seconds.",
+        "ten": "Add sliced vegetables (such as bell peppers, onions, carrots, and broccoli) and stir fry for a few minutes.",
+        "eleven": "Add a mixture of soy sauce, oyster sauce, and cornstarch to the pan and stir until the sauce thickens.",
+        "twelve": "In a mixing bowl, cream together softened butter, white sugar, and brown sugar until fluffy.",
+        "therten": "Let cool on the baking sheet for a few minutes before transferring to a wire rack to cool completely."
+       }
+    },
+    {
+       "id":"2",
+       "name": "rakib",
+       "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
+       "experience": "4",
+       "recipes": "6",
+       "likes": "140",
+       "bio": "Yogurt is found in every district of Bangladesh, but mishti doi, originating from Bogra, is undoubtedly one of the most flavorsome types. People traveling through Bogra always stop to take a few servings home for their loved ones.Yogurt is found in every district of Bangladesh, but mishti doi, originating from Bogra, is undoubtedly one of the most flavorsome types. People traveling through Bogra always stop to take a few servings home for their loved ones.",
+       "recipeName":{
+        "first": "Kolijar Shingara (Beef/Mutton Liver Shingara)",
+        "second": "Fuchka",
+        "third": "Beef Kala Bhuna",
+        "four": "Borhani (Spicy Yogurt Drink)",
+        "five": "Sheek Kebab with Naan",
+        "six": "Haleem (Mixed Lentil Soup and Meat)"
+       },
+       "ratingName":{
+        "first": "4",
+        "second": "3",
+        "third": "4.5",
+        "four": "5",
+        "five": "4.3",
+        "six": "4.7"
+       },
+       "rating":"4.5",
+       "method": {
+        "first": "Cook spaghetti pasta according to package directions.",
+        "second": "In a separate pan, cook diced bacon until crispy. Remove bacon from pan and set aside. ",
+        "third": "In the same pan, sauté minced garlic in the bacon fat until fragrant.",
+        "four": "In a bowl, whisk together eggs, grated parmesan cheese, salt, and black pepper.",
+        "five": "Add cooked spaghetti to the garlic pan, pour in the egg mixture and stir until eggs are cooked and pasta is coated.",
+        "six": "Add the crispy bacon and serve with additional grated parmesan cheese.",
+        "seven": "In a wok or large frying pan, heat vegetable oil over high heat.",
+        "eight": "Cut chicken breast into small pieces and season with salt and black pepper.",
+        "nine": "Add minced garlic and ginger and stir fry for 30 seconds.",
+        "ten": "Add sliced vegetables (such as bell peppers, onions, carrots, and broccoli) and stir fry for a few minutes.",
+        "eleven": "Add a mixture of soy sauce, oyster sauce, and cornstarch to the pan and stir until the sauce thickens.",
+        "twelve": "In a mixing bowl, cream together softened butter, white sugar, and brown sugar until fluffy.",
+        "therten": "Let cool on the baking sheet for a few minutes before transferring to a wire rack to cool completely."
+       }
+    },
+    {
+       "id":"3",
+       "name": "jahid",
+       "image": "https://img.freepik.com/free-photo/portrait-handsome-male-chef-dressed-uniform_171337-5352.jpg",
+       "experience": "2",
+       "recipes": "5",
+       "likes": "170",
+       "bio": "Borhani is made with yogurt, spices, a little sugar, coriander, and mint leaves. These ingredients come together to create a uniquely sweet, spicy, and tangy tasting beverage, unique to Bangladeshi cuisine.",
+       "recipeName":{
+        "first": "Kolijar Shingara (Beef/Mutton Liver Shingara)",
+        "second": "Roshogolla (Traditional Syrupy Sweet) ",
+        "third": "Chomchom (Traditional Sweet / Chum Chum)",
+        "four": "Bhuna Khichuri with Dim Bhaji",
+        "five": "Sheek Kebab with Naan"
+       },
+       "ratingName":{
+        "first": "4",
+        "second": "3",
+        "third": "4.8",
+        "four": "3",
+        "five": "4.3",
+        "six": "4.7"
+       },
+       "rating":"4.5",
+       "method": {
+        "first": "Cook spaghetti pasta according to package directions.",
+        "second": "In a separate pan, cook diced bacon until crispy. Remove bacon from pan and set aside. ",
+        "third": "In the same pan, sauté minced garlic in the bacon fat until fragrant.",
+        "four": "In a bowl, whisk together eggs, grated parmesan cheese, salt, and black pepper.",
+        "five": "Add cooked spaghetti to the garlic pan, pour in the egg mixture and stir until eggs are cooked and pasta is coated.",
+        "six": "Add the crispy bacon and serve with additional grated parmesan cheese.",
+        "seven": "In a wok or large frying pan, heat vegetable oil over high heat.",
+        "eight": "Cut chicken breast into small pieces and season with salt and black pepper.",
+        "nine": "Add minced garlic and ginger and stir fry for 30 seconds.",
+        "ten": "Add sliced vegetables (such as bell peppers, onions, carrots, and broccoli) and stir fry for a few minutes.",
+        "eleven": "Add a mixture of soy sauce, oyster sauce, and cornstarch to the pan and stir until the sauce thickens.",
+        "twelve": "In a mixing bowl, cream together softened butter, white sugar, and brown sugar until fluffy.",
+        "therten": "Let cool on the baking sheet for a few minutes before transferring to a wire rack to cool completely."
+       }
+    },
+    {
+       "id":"4",
+       "name": "sonjoy",
+       "image": "https://dg1xqmhtoint1.cloudfront.net/img/vadodara/blog/blog-chef.webp?mtime=20220615123310&focal=none",
+       "experience": "4",
+       "recipes": "5",
+       "likes": "130",
+       "bio": "he outer shell is made with a mixture of semolina and flour. The filling contains boiled and mashed chickpeas, potatoes, and a mix of spices and coriander. Grated carrots or boiled eggs are sometimes used as a garnish, and fuchka are commonly tropped with a sweet-and-spicy tamarind sauce.",
+       "recipeName":{
+        "first": "Bhorta (Mashed Vegetables with Spices)",
+        "second": "Dal (Lentil Soup)",
+        "third": "Beef Kala Bhuna",
+        "four": "Sheek Kebab with Naan (Kebab with Flatbread)",
+        "five": "Sheek Kebab with Naan"
+       },
+       "ratingName":{
+        "first": "5",
+        "second": "4",
+        "third": "4.7",
+        "four": "3",
+        "five": "4.3",
+        "six": "4.7"
+       },
+       "rating":"5",
+       "method": {
+        "first": "Cook spaghetti pasta according to package directions.",
+        "second": "In a separate pan, cook diced bacon until crispy. Remove bacon from pan and set aside. ",
+        "third": "In the same pan, sauté minced garlic in the bacon fat until fragrant.",
+        "four": "In a bowl, whisk together eggs, grated parmesan cheese, salt, and black pepper.",
+        "five": "Add cooked spaghetti to the garlic pan, pour in the egg mixture and stir until eggs are cooked and pasta is coated.",
+        "six": "Add the crispy bacon and serve with additional grated parmesan cheese.",
+        "seven": "In a wok or large frying pan, heat vegetable oil over high heat.",
+        "eight": "Cut chicken breast into small pieces and season with salt and black pepper.",
+        "nine": "Add minced garlic and ginger and stir fry for 30 seconds.",
+        "ten": "Add sliced vegetables (such as bell peppers, onions, carrots, and broccoli) and stir fry for a few minutes.",
+        "eleven": "Add a mixture of soy sauce, oyster sauce, and cornstarch to the pan and stir until the sauce thickens.",
+        "twelve": "In a mixing bowl, cream together softened butter, white sugar, and brown sugar until fluffy.",
+        "therten": "Let cool on the baking sheet for a few minutes before transferring to a wire rack to cool completely."
+       }
+    },
+    {
+       "id":"5",
+       "name": "sujoy",
+       "image": "https://www.webstaurantstore.com/uploads/guide/2022/9/chef-with-glasses-sirring-a-sauce-pot.jpg",
+       "experience": "2",
+       "recipes": "7",
+       "likes": "120",
+       "bio": "Kala Bhuna gets its name from its appearance, as ‘kala’ means ‘black‘. The meat – which can be beef or mutton – is cooked with a long list of traditional spices and yogurt. It is cooked for much longer than in other curries, which gives the meat a blackish hue. It also tastes different than regular beef curry.This traditional curry can be eaten with plain rice, pulao (or pilaf), khichuri, roti, or paratha. No matter what you pair it with, it always tastes absolutely heavenly!",
+       "recipeName":{
+        "first": "Bhuna Khichuri with Dim Bhaji (Yellow Rice with Omelette)",
+        "second": "Shorshe Ilish (Hilsa Fish with Mustard Curry) ",
+        "third": "Kacchi Biriyani (Mutton Biriyani)",
+        "four": "Bhuna Khichuri with Dim Bhaji",
+        "five": "Sheek Kebab with Naan (Kebab with Flatbread)"
+       },
+       "ratingName":{
+        "first": "4.2",
+        "second": "3.8",
+        "third": "4",
+        "four": "5",
+        "five": "4.8",
+        "six": "4.1"
+       },
+       "rating":"4.8",
+       "method": {
+        "first": "Cook spaghetti pasta according to package directions.",
+        "second": "In a separate pan, cook diced bacon until crispy. Remove bacon from pan and set aside. ",
+        "third": "In the same pan, sauté minced garlic in the bacon fat until fragrant.",
+        "four": "In a bowl, whisk together eggs, grated parmesan cheese, salt, and black pepper.",
+        "five": "Add cooked spaghetti to the garlic pan, pour in the egg mixture and stir until eggs are cooked and pasta is coated.",
+        "six": "Add the crispy bacon and serve with additional grated parmesan cheese.",
+        "seven": "In a wok or large frying pan, heat vegetable oil over high heat.",
+        "eight": "Cut chicken breast into small pieces and season with salt and black pepper.",
+        "nine": "Add minced garlic and ginger and stir fry for 30 seconds.",
+        "ten": "Add sliced vegetables (such as bell peppers, onions, carrots, and broccoli) and stir fry for a few minutes.",
+        "eleven": "Add a mixture of soy sauce, oyster sauce, and cornstarch to the pan and stir until the sauce thickens.",
+        "twelve": "In a mixing bowl, cream together softened butter, white sugar, and brown sugar until fluffy.",
+        "therten": "Let cool on the baking sheet for a few minutes before transferring to a wire rack to cool completely."
+       }
+    },
+    {
+       "id":"6",
+       "name": "rubayed",
+       "image": "https://elements-video-cover-images-0.imgix.net/files/4a82ff7c-305c-47db-8ddd-bba2769c2023/inline_image_preview.jpg?auto=compress%2Cformat&fit=min&h=394&w=700&s=00c29ddfe3c2055910be2a9c97905c0e",
+       "experience": "1",
+       "recipes": "6",
+       "likes": "180",
+       "bio": "A common rainy-day staple, Bhuna Khichuri is a wholesome rice dish and popular comfort food in Bengali cuisine.Khichuri, also known as Khichdi in India, is made with rice and lentils and is yellow in color. The rice and lentils are washed thoroughly and cooked with a few spices, turmeric, and ghee.",
+       "recipeName":{
+        "first": "Fuchka",
+        "second": "Kacchi Biriyani ",
+        "third": "Kolijar Shingara (Beef/Mutton Liver Shingara)",
+        "four": "Bhuna Khichuri with Dim Bhaji",
+        "five": " Haleem (Mixed Lentil Soup and Meat)"
+       },
+       "ratingName":{
+        "first": "4.9",
+        "second": "3.6",
+        "third": "4.7",
+        "four": "3.9",
+        "five": "4.8",
+        "six": "4.7"
+       },
+       "rating":"4.5",
+       "method": {
+        "first": "Cook spaghetti pasta according to package directions.",
+        "second": "In a separate pan, cook diced bacon until crispy. Remove bacon from pan and set aside. ",
+        "third": "In the same pan, sauté minced garlic in the bacon fat until fragrant.",
+        "four": "In a bowl, whisk together eggs, grated parmesan cheese, salt, and black pepper.",
+        "five": "Add cooked spaghetti to the garlic pan, pour in the egg mixture and stir until eggs are cooked and pasta is coated.",
+        "six": "Add the crispy bacon and serve with additional grated parmesan cheese.",
+        "seven": "In a wok or large frying pan, heat vegetable oil over high heat.",
+        "eight": "Cut chicken breast into small pieces and season with salt and black pepper.",
+        "nine": "Add minced garlic and ginger and stir fry for 30 seconds.",
+        "ten": "Add sliced vegetables (such as bell peppers, onions, carrots, and broccoli) and stir fry for a few minutes.",
+        "eleven": "Add a mixture of soy sauce, oyster sauce, and cornstarch to the pan and stir until the sauce thickens.",
+        "twelve": "In a mixing bowl, cream together softened butter, white sugar, and brown sugar until fluffy.",
+        "therten": "Let cool on the baking sheet for a few minutes before transferring to a wire rack to cool completely."
+       }
+    }
+]
