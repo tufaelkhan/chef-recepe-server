@@ -1,7 +1,7 @@
 [
     {
        "id":"1",
-       "name": "polash",
+       "name": "MD. Polash",
        "image": "https://st.depositphotos.com/1518767/4293/i/950/depositphotos_42930411-stock-photo-concentrated-male-chef-garnishing-food.jpg",
        "experience": "3",
        "recipes": "7",
@@ -40,7 +40,7 @@
     },
     {
        "id":"2",
-       "name": "rakib",
+       "name": "MD. Rakib Hasan",
        "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
        "experience": "4",
        "recipes": "6",
